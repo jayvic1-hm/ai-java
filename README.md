@@ -2,6 +2,8 @@
 
 간단하고 예쁜 GUI 계산기 프로그램입니다. Java Swing을 사용하여 제작되었으며, 더하기, 빼기, 곱하기, 나누기 기능을 지원합니다.
 
+<img width="879" height="360" alt="img" src="https://github.com/user-attachments/assets/9e66f216-c053-4989-9b9b-a0f513834537" />
+
 ## ✨ 주요 기능
 
 - **사칙연산** (+, -, *, /)
